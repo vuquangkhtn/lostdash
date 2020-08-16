@@ -1,0 +1,25 @@
+{
+  "name": "lowdash",
+  "version": "1.0.0",
+  "description": "Some useful function for our workflow, which we think it could be useful sometimes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuquangkhtn/lowdash.git"
+  },
+  "keywords": [
+    "lowdash",
+    "lodash",
+    "node",
+    "npm"
+  ],
+  "author": "Quang Nguyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vuquangkhtn/lowdash/issues"
+  },
+  "homepage": "https://github.com/vuquangkhtn/lowdash#readme"
+}
