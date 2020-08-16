@@ -1,5 +1,5 @@
 {
-  "name": "lowdash",
+  "name": "lostdash",
   "version": "1.0.0",
   "description": "Some useful function for our workflow, which we think it could be useful sometimes",
   "main": "index.js",
@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vuquangkhtn/lowdash.git"
+    "url": "git+https://github.com/vuquangkhtn/lostdash.git"
   },
   "keywords": [
-    "lowdash",
+    "lostdash",
     "lodash",
     "node",
     "npm"
@@ -19,7 +19,7 @@
   "author": "Quang Nguyen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vuquangkhtn/lowdash/issues"
+    "url": "https://github.com/vuquangkhtn/lostdash/issues"
   },
-  "homepage": "https://github.com/vuquangkhtn/lowdash#readme"
+  "homepage": "https://github.com/vuquangkhtn/lostdash#readme"
 }
