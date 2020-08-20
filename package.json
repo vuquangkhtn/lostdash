@@ -2,9 +2,10 @@
   "name": "lostdash",
   "version": "1.0.1",
   "description": "Some useful function for our workflow, which we think it could be useful sometimes",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
+    "style": "eslint *.js"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/vuquangkhtn/lostdash/issues"
   },
-  "homepage": "https://github.com/vuquangkhtn/lostdash#readme"
+  "homepage": "https://github.com/vuquangkhtn/lostdash#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.11.0",
+    "babel-jest": "^26.3.0",
+    "eslint": "^7.7.0",
+    "jest": "^26.4.0"
+  }
 }
