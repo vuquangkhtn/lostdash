@@ -20,7 +20,7 @@ yarn add lostdash
 
 ## **Usage**
 
-You can import from `lowdash`:
+You can import from `lostdash`:
 
 Using `JS`:
 
