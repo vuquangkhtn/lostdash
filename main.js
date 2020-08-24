@@ -1,3 +1,6 @@
 export const compareIgnoreCase = (first, second) => {
-    return first.toUpperCase() === second.toUpperCase();
+    if (typeof (first) === 'string' && typeof (second) === 'string') {
+        return first.toUpperCase() === second.toUpperCase();
+    }
+    return false;
 }
