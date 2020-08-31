@@ -1,6 +1,6 @@
 {
   "name": "lostdash",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Some useful function for our workflow, which we think it could be useful sometimes",
   "main": "main.js",
   "scripts": {
